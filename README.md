@@ -53,14 +53,16 @@ The system uses a **Primary-Subordinate Agent** design to ensure expert-level re
 ### 🤖 Multi-Agent Logic & Playbooks
 | Master Tech Playbook | Parts Specialist Playbook |
 |---|---|
-| ![Master Tech](screenshots/Screenshot%20(567).png) | ![Parts Specialist](screenshots/Screenshot%20(568).png) |
+| ![Master Tech](screenshots/Screenshot%20(580).png) | ![Parts Specialist](screenshots/Screenshot%20(581).png) |
 
-> **Note:** The screenshots above demonstrate the conditional hand-off logic between the technical maintenance instructions and the commercial parts database.
+> **Note:** These screenshots demonstrate the conditional hand-off logic between mechanical maintenance instructions and the commercial parts database.
 
 ### 🛠️ Data Infrastructure & Tools
-| RAG & BigQuery Toolset | Conversation Flow |
+| RAG & BigQuery Toolset | Conversation Architecture |
 |---|---|
 | ![Tools Configuration](screenshots/Screenshot%20(566).png) | ![Flow Architecture](screenshots/Screenshot%20(569).png) |
+
+---
 
 ---
 ---
