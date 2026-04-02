@@ -44,6 +44,10 @@ The system uses a **Primary-Subordinate Agent** design to ensure expert-level re
 ### 📂 Repository Structure
 * `agent-config/`: Contains the exported Dialogflow CX JSON for local testing/importing.
 * `data-samples/`: Sample structure of the BigQuery parts table and PDF snippets.
+* ## 📸 Project Architecture Preview
+| Multi-Agent Playbooks | RAG & Database Tools |
+|---|---|
+| ![Playbooks](screenshots/playbook_view.png) | ![Tools](screenshots/tools_view.png) |
 
 ---
 *Created by [Gautam Thiruvalluvan](https://linkedin.com/in/your-profile-link) as part of the Google Cloud Gen AI Academy.*
