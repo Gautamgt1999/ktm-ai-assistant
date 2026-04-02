@@ -5,6 +5,7 @@ A multi-agent Generative AI assistant for KTM Duke 200 maintenance and parts. Bu
 An advanced Generative AI assistant built on **Google Cloud Platform** to support KTM Duke 200 owners with technical maintenance and genuine parts procurement.
 
 ---
+🚀 Live Demo: https://ktm-ai-assistant.tiiny.site
 
 ## 📌 The Problem
 Maintaining a high-performance motorcycle like the KTM Duke 200 (BS3/BS4/BS6) requires precision. Owners often struggle with:
