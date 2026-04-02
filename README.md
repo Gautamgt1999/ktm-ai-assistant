@@ -47,7 +47,7 @@ The system uses a **Primary-Subordinate Agent** design to ensure expert-level re
 * ## 📸 Project Architecture Preview
 | Multi-Agent Playbooks | RAG & Database Tools |
 |---|---|
-| ![Playbooks](https://1drv.ms/i/c/E77970F1D74D1B44/IQCGxJYBnwz6T5DOyXeb_EZHASXzmShX_sp51853vXV4eIs?e=9wbNCM) | ![Tools](https://1drv.ms/i/c/E77970F1D74D1B44/IQAQY17MbvsASrw2OmVxptz3AQnhXx6-r_NOCqwVVo9XKts?e=fd13dn) | 
+
 
 ---
 *Created by [Gautam Thiruvalluvan](https://linkedin.com/in/your-profile-link) as part of the Google Cloud Gen AI Academy.*
