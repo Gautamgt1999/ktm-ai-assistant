@@ -1,6 +1,12 @@
 # ktm-ai-assistant
+
+
+"Developed by Gautam Thiruvalluvan for the Google Cloud Gen AI Academy 2026."
+
 A multi-agent Generative AI assistant for KTM Duke 200 maintenance and parts. Built with Dialogflow CX, utilizing RAG (Retrieval-Augmented Generation) for technical manual queries and BigQuery integration for real-time spare parts data.
 # KTM Duke 200 AI Assistant: Multi-Agent RAG System 🏍️
+
+
 
 An advanced Generative AI assistant built on **Google Cloud Platform** to support KTM Duke 200 owners with technical maintenance and genuine parts procurement.
 
